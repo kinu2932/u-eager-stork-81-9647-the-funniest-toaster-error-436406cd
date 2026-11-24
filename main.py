@@ -8,7 +8,7 @@ byte-identical output.
 
 import os
 
-ENTRY = "E04: Have you tried turning the bread off and on again?"
+ENTRY = "Error: Toast is burnt. It died doing what it loved: being ignored."
 
 
 def main():
